@@ -121,7 +121,7 @@ local scriptversion = "2.1.2"
     notify('loading xhub private')
     
     local Window = Library:CreateWindow({
-        Title = 'xhub private',
+        Title = 'xhub.lua',
         Center = true, 
         AutoShow = true,
     })
